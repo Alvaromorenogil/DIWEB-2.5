@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://carontestudio.com/img/caronte-web-estudio-logo.png");
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 5px 5px 2px black;
+    text-transform: uppercase;
+    background-color: aqua;
+    color: #8b0000;
+}
+
+p  {
+    text-align: justify;
+    text-indent: 5000px;
+    font-size: 50px;
+    color: rgb(0, 255, 0);
+    opacity: .4;
+}
+
+em {
+    text-transform: capitalize;
+    text-decoration: underline;
+    color: #000080;
+}
+
+/* em {
+    color: hsl(243,29%,20%);
+} */
+
+img {
+    vertical-align: super;
+    width: 10px;
+    height: 10px;
+}
